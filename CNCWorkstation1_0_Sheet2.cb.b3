@@ -13807,7 +13807,7 @@
     </layer>
   </layers>
   <MachiningOptions>
-    <PostProcessor>Mach3-CV</PostProcessor>
+    <PostProcessor>Mach3</PostProcessor>
     <Stock>
       <Material>Plywood</Material>
       <PMin>0,100.5,-0.5</PMin>
@@ -13903,8 +13903,8 @@
             <prim>11</prim>
             <prim>12</prim>
           </primitive>
-          <TargetDepth state="Value">-0.55</TargetDepth>
-          <DepthIncrement state="Value">0.28</DepthIncrement>
+          <TargetDepth state="Default">-0.5</TargetDepth>
+          <DepthIncrement state="Value">0.25</DepthIncrement>
           <FinalDepthIncrement state="Default">0</FinalDepthIncrement>
           <CutOrdering state="Default">DepthFirst</CutOrdering>
           <CutWidth state="Default">0</CutWidth>
