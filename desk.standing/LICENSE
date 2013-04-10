@@ -1,11 +1,16 @@
-Origninal CNC Workstation design by Evil Mad Scientists, available at:
-   http://www.evilmadscientist.com/2012/cnc-workstation/ 
+Origninal CNC Workstation design (CNCWorkstation1.0.pdf) (c) 2012 Windell Oskay,
+Evil Mad Scientist LLC, All rights reserved. Released under CC-BY, Creative
+Commons Attribution License 2.0 and available at:
+http://www.evilmadscientist.com/2012/cnc-workstation/ 
 
-This project is an implementation of that design by David Hempy, and is
-relesed under the CC_BY_3.0 license: 
-   http://creativecommons.org/licenses/by/3.0/
+This project (all files other than CNCWorkstation1.0.pdf) is an implementation
+of that design by David Hempy, and is relesed under the CC_BY_3.0 license:
+http://creativecommons.org/licenses/by/3.0/
 
-In short, you can use and modify this work pretty much without restriction beyond attributing its sources and maintaingin the CC_BY (or equivalent) license in derivative work.
+In short, you can use and modify this work pretty much without restriction
+beyond attributing its sources and maintaining these notices the CC_BY (or
+equivalent) license in derivative works.
 
+No warranty is given or implied, design is strictly as-is.
 
 
